@@ -1,6 +1,6 @@
 ## Auction Implementation in Hyperledger Fabric
 
-Contains three different implementations of first price auctions for Hyperledger Fabric.
+Contains three different implementations of first price auctions for Hyperledger Fabric as part of Distributing Trust & Blockchains course.
 
 To deploy the contracts:
 ```
